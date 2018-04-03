@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ smtp.cpp -pthread  -o smtp -std=c++11
+g++ client.cpp -o client
