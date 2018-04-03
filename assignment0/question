@@ -1,0 +1,11 @@
+You should write necessary socket programming code (in C) to implement the following:
+
+There will be a server and client program.
+
+The client after establishing a connection with the server will be sending a message to the server.
+
+The server after receiving the message sends the same message back to the client.
+
+You should display the message in both terminals that runs server and client.
+
+It is recommended that you should try both sock_stream and sock_dgram socket.

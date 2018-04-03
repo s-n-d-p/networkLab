@@ -1,0 +1,5 @@
+#!/bin/bash
+gcc server.c -w -o server
+gcc client.c -w -o client
+gcc server1.c -w -o server1
+gcc client1.c -w -o client1
